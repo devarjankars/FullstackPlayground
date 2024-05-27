@@ -1,0 +1,80 @@
+
+
+
+.mainDiv{
+  display: grid;
+  justify-content: space-between;
+  margin: 2px;
+  padding: 4px;
+  
+}
+.mainDiv div{
+  margin:2px;
+  padding: 2px;
+  justify-content: center;
+}
+.form{
+  color: rgb(3, 7, 63);
+  
+  margin-top: 15px;
+  
+  
+  padding: 4px;
+  border: 1px solid black;
+  height: 400px;
+  
+  justify-content: center;
+  
+}
+
+
+.basic input{
+ 
+  display: grid;
+  padding: 5px;
+  margin: 2px;
+}
+
+.DocDiv{
+  display: grid;
+  margin-right: 0px;
+  background-color: rgb(164, 250, 241);
+margin-left: 500px;
+  padding: 2px;
+  
+}
+.docDiv, label{
+  margin-left: 50px;
+  padding: 5px;
+}
+
+.section{
+  display: flex;
+  justify-content: space-between;
+}
+.docimg{
+  height:50px;
+  width:50px;
+}
+.channel input,label {
+  margin: 4px;
+  padding: 2px;
+
+}
+.timeslot  input,label {
+  margin: 4px;
+  padding: 2px;
+
+}
+.dateinput,label {
+  margin: 4px;
+  padding: 2px;
+
+}
+
+.bok{
+  background-color: rgb(16, 30, 68);
+  color: white;
+  border: 1px darkgrey;
+  border-radius: 10%;
+}
